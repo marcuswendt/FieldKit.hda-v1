@@ -15,7 +15,7 @@ It's a more modern and hopefully better engineered version of https://github.com
 # Conventions
 
 * Operators are usually implemented in the VEX language for best performance.
-* Each operator is defined in ./hda/fd_<context>_<operator-name>.hda and should include a example + test file in ./example/<context>_<operator-name>.hip
+* Each operator is defined in ./hda/fd_context_operator.hda and should include a example + test file in ./example/context_operator.hip
 
 
 # Installation
